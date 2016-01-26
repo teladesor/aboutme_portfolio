@@ -1,0 +1,55 @@
+body {
+	
+	font-family: "Helvetica", sans-serif;
+	text-align: center;
+	background: url("http://gapyearblogs.org/edvards-vitols/wp-content/uploads/sites/119/2014/07/website-background-1.jpg");
+      background-size: cover;
+}	
+p {
+	color: 	#000000;
+	font-family: "Times New Roman", Georgia, Serif; 
+
+}
+
+
+h1 {
+	color: black;
+	font-family: "helvetica", sans-serif;
+}
+h2 {
+	color:	#000000;
+	font-style: oblique;
+}
+img {border-width: 2px; border-style: solid;border-color: black;}
+
+}
+
+ul {
+	color: 	#000000;
+}
+
+
+
+.post-container {
+    margin: 20px 20px 0 0;  
+    border: 5px solid #333;
+    overflow: auto
+}
+.post-thumb {
+    float: right
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+    margin-right: 210px
+}
+.post-title {
+    font-weight: bold;
+    font-size: 200%
+}
+
+
+footer { 
+    display: block;
+}
